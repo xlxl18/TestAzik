@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<products>
+       <product>
+           <price>2289.0</price>
+           <title>Apple 15" MacBook Pro, Retina, Touch Bar, 2.8GHz Intel Core i7 Quad Core, 16GB RAM, 256GB SSD, Space Gray, MPTR2LL/A</title>
+       </product>
+       <product>
+           <price>880.0</price>
+           <title>Apple iPhone 7 Plus Unlocked Phone 128 GB - (Red)</title>
+       </product>
+       <product>
+           <price>3.23</price>
+           <title>USAMS Car Cigarette Power Charger Micro USB Cable</title>
+       </product>
+       <product>
+           <price>729.0</price>
+           <title>Samsung Galaxy S8 Plus (S8+) (SM-G955FD) 4GB RAM / 64GB ROM 6.2-Inch 12MP 4G LTE Dual SIM FACTORY UNLOCKED - International Stock No Warranty (MIDNIGHT BLACK)</title>
+       </product>
+       <product>
+           <price>329.0</price>
+           <title>Bose QuietComfort 35 Wireless Headphones, Noise Cancelling - Black</title>
+       </product>
+</products>
+
+
