@@ -62,11 +62,11 @@ public class Parse_XML extends DefaultHandler {
         }
         product1.setPrice(Double.parseDouble(prices.get(0)));
         product1.setTitle(titles.get(0));
-        product1.setPrice(Double.parseDouble(prices.get(1)));
-        product1.setTitle(titles.get(1));
-        product1.setPrice(Double.parseDouble(prices.get(2)));
-        product1.setTitle(titles.get(2));
-        product1.setPrice(Double.parseDouble(prices.get(3)));
-        product1.setTitle(titles.get(3));
+        product2.setPrice(Double.parseDouble(prices.get(1)));
+        product2.setTitle(titles.get(1));
+        product3.setPrice(Double.parseDouble(prices.get(2)));
+        product3.setTitle(titles.get(2));
+        product4.setPrice(Double.parseDouble(prices.get(3)));
+        product4.setTitle(titles.get(3));
     }
 }
